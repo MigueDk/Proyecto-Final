@@ -217,12 +217,6 @@ ahorroEconomico = consumoRenovableUsuario × $0.12/kWh
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
-## 👨‍💻 Autor
-
-**Sebastián Amaya**
-- GitHub: [@SAmaya29](https://github.com/SAmaya29)
-- Proyecto: [Web-Energia-Hidroelectrica](https://github.com/SAmaya29/Web-Energia-Hidroelectrica)
-
 ## 🙏 Agradecimientos
 
 - **Our World in Data** - Por proporcionar datasets energéticos globales
@@ -236,7 +230,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 Si tienes preguntas o encuentras algún problema:
 1. Revisa la documentación en este README
-2. Busca en los [Issues](https://github.com/SAmaya29/Web-Energia-Hidroelectrica/issues) existentes
 3. Crea un nuevo Issue si es necesario
 
 ---
